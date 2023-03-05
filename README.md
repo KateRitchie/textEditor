@@ -18,6 +18,7 @@ Then run the following command:
 ## Usage
 
 Deployed site:[J.A.T.E](https://warm-mesa-20580.herokuapp.com/)
+GitHub:[Text Editor](https://github.com/KateRitchie/textEditor)
 
 J.A.T.E (Just Another Text Editor)
 ![JATE](./assets/JATE.PNG)
@@ -35,3 +36,5 @@ https://www.youtube.com/watch?v=8UFOSQXT_pg
 https://javascript.info/indexeddb
 
 https://www.npmjs.com/package/idb
+
+Start code: https://github.com/coding-boot-camp/cautious-meme
