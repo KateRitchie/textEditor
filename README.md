@@ -19,6 +19,15 @@ Then run the following command:
 
 Deployed site:[J.A.T.E]
 
+J.A.T.E (Just Another Text Editor)
+![JATE](./assets/JATE.PNG)
+
+Contest retrieved from IndexedDB
+![IndexedDB](./assets/IndexedDB.PNG)
+
+Static assets pre cached
+![Precached](./assets/SW.PNG)
+
 ## Credits
 
 https://www.youtube.com/watch?v=8UFOSQXT_pg
