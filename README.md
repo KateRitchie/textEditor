@@ -17,7 +17,7 @@ Then run the following command:
 
 ## Usage
 
-Deployed site:[J.A.T.E]
+Deployed site:[J.A.T.E](https://warm-mesa-20580.herokuapp.com/)
 
 J.A.T.E (Just Another Text Editor)
 ![JATE](./assets/JATE.PNG)
